@@ -1,3 +1,3 @@
 <div id="footer">
-@luiish97
+© Vida MRR 2018
 </div>

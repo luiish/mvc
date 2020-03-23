@@ -7,12 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php require 'views/header.php'; ?>
-
-    <div id="main">
-        <h1 class="center">Bienvenido al sitio</h1>
-    </div>
-
-    <?php require 'views/footer.php'; ?>
+    <h1 style="color: red;"><?php echo $this->mensaje; ?></h1>
 </body>
 </html>
