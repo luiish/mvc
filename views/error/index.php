@@ -7,6 +7,6 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-    <h1>ERROR AL CARGAR EL RECURSO</h1>
+    <h1 style="color: red"><?php echo $this->mensaje; ?></h1>
     </body>
 </html>
